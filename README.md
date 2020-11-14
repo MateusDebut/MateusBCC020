@@ -7,7 +7,7 @@
 ### Deixe-me contar um pouco sobre mim =)
 * Idade: 22 anos
 * Formação: Ciências da computação em: USP (cursando)
-* Experiência: Bootcamp Generation - Desencolvedor Java Fullstack
+* Experiência: Bootcamp Generation - Desenvolvedor Java Fullstack
 * Projeto principal: [Site Vestibulandos da Cidadania](https://www.vestibulandosdacidadania.org/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusBCC020&layout=compact)](https://github.com/MateusBCC020)
