@@ -4,5 +4,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusBCC020)](https://github.com/MateusBCC020)
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://https://keep-calm.net/images/keep-calm-and-code-on-600-800-black-white.jpg" />
+  <img align="center" src="https://github.com/MateusBCC020/MateusBCC020/blob/main/keep-calm-and-code-on-600-800-black-white.jpg" />
 </a>
