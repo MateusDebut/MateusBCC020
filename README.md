@@ -4,3 +4,10 @@
 
 ![Mateus github stats](https://github-readme-stats.vercel.app/api?username=MateusBCC020&show_icons=true&theme=gruvbox)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusBCC020&theme=gruvbox)](https://github.com/MateusBCC020)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
