@@ -3,9 +3,9 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mateus_s_ribeiro/)](https://www.instagram.com/mateus_s_ribeiro/)
 
 ### Deixe-me contar um pouco sobre mim =)
-*Idade: 22 anos
-*Formação: Ciências da computação (cursando)
-*Experiência: Bootcamp Generation - Desencolvedor Java Fullstack
-*Projeto principal: [Site Vestibulandos da Cidadania](https://www.vestibulandosdacidadania.org/)
+* Idade: 22 anos
+* Formação: Ciências da computação (cursando)
+* Experiência: Bootcamp Generation - Desencolvedor Java Fullstack
+* Projeto principal: [Site Vestibulandos da Cidadania](https://www.vestibulandosdacidadania.org/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusBCC020)](https://github.com/MateusBCC020):
