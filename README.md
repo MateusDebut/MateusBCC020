@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusBCC020)](https://github.com/MateusBCC020)
 
-<img align="center" src="https://github.com/MateusBCC020/MateusBCC020/blob/main/keepCalm.jpg" />
+[<img align="center" src="https://github.com/MateusBCC020/MateusBCC020/blob/main/keepCalm.jpg" />]
