@@ -3,7 +3,3 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mateus_s_ribeiro/)](https://www.instagram.com/mateus_s_ribeiro/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusBCC020)](https://github.com/MateusBCC020)
-
-<img src = "https://github.com/MateusBCC020/MateusBCC020/blob/main/keepCalm.jpg" 
-     alt = "Ícone Markdown Monster" 
-     style = "float: left; margin-right: 10px;" />
