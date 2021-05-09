@@ -1,9 +1,11 @@
 # Mateus dos Santos Ribeiro
+
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-ribeiro-b104a9120/)](https://www.linkedin.com/in/mateus-ribeiro-b104a9120/)
-[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mateus_s_ribeiro/)](https://www.instagram.com/mateus_s_ribeiro/)
+
+
 
 ### Deixe-me contar um pouco sobre mim =)
-* Idade: 22 anos
+* Idade: 23 anos
 * Formação: 
     1. Graduação em Ciências da computação - USP (cursando)
     2. Bootcamp Desenvolvedor Java Fullstack - Generation Brasil
