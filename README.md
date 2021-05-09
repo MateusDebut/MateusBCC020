@@ -7,7 +7,7 @@
 ### Deixe-me contar um pouco sobre mim =)
 * Idade: 23 anos
 * Formação: 
-    1. Graduação em Ciências da computação - USP (cursando)
+    1. Graduação em Sistemas de informação - USP (cursando)
     2. Bootcamp Desenvolvedor Java Fullstack - Generation Brasil
 * Experiência: 
     1. Web designer - Associação Vestibulandos da Cidadania
