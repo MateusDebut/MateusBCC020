@@ -11,7 +11,7 @@
     2. Bootcamp Desenvolvedor Java Fullstack - Generation Brasil
 * Experiência: 
     1. Web designer - Associação Vestibulandos da Cidadania
-    2. Analista de engenharia de TI jr - Itaú Unibanco
+    2. Analista de engenharia de TI - Itaú Unibanco
 * Projetos principais:
     1. [Site Vestibulandos da Cidadania](https://www.vestibulandosdacidadania.org/)
     2. [GetSet E-commerce](https://thegetset.herokuapp.com/)
