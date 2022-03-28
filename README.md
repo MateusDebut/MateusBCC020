@@ -13,9 +13,6 @@
     1. Analista de engenharia de TI - Itaú Unibanco
     2. Professor de Programaçao Procedural e Programação Orientada a Objetos - IFSP
     3. Web designer - Associação Vestibulandos da Cidadania
-* Projetos principais:
-    1. [Site Vestibulandos da Cidadania](https://www.vestibulandosdacidadania.org/)
-    2. [GetSet E-commerce](https://thegetset.herokuapp.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDebut&layout=compact)](https://github.com/MateusDebut)
 
