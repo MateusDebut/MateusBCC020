@@ -5,13 +5,14 @@
 
 
 ### Deixe-me contar um pouco sobre mim =)
-* Idade: 23 anos
+* Idade: 24 anos
 * Formação: 
     1. Graduação em Sistemas de informação - USP (cursando)
     2. Bootcamp Desenvolvedor Java Fullstack - Generation Brasil
 * Experiência: 
-    1. Web designer - Associação Vestibulandos da Cidadania
-    2. Analista de engenharia de TI - Itaú Unibanco
+    1. Analista de engenharia de TI - Itaú Unibanco
+    2. Professor de Programaçao Procedural e Programação Orientada a Objetos - IFSP
+    3. Web designer - Associação Vestibulandos da Cidadania
 * Projetos principais:
     1. [Site Vestibulandos da Cidadania](https://www.vestibulandosdacidadania.org/)
     2. [GetSet E-commerce](https://thegetset.herokuapp.com/)
