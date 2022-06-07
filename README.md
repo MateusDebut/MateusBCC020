@@ -14,5 +14,5 @@
     2. Professor de Programaçao Procedural e Programação Orientada a Objetos - IFSP
     3. Web designer - Associação Vestibulandos da Cidadania
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDebut&layout=compact)](https://github.com/MateusDebut)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDebut&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
