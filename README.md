@@ -11,7 +11,7 @@
     2. Bootcamp Desenvolvedor Java Fullstack - Generation Brasil
 * Experiência: 
     1. Analista de engenharia de TI - Itaú Unibanco
-    2. Professor de Programaçao Procedural e Programação Orientada a Objetos - IFSP
+    2. Professor voluntário de Programaçao Procedural e Programação Orientada a Objetos - IFSP
     3. Web designer - Associação Vestibulandos da Cidadania
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDebut&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
