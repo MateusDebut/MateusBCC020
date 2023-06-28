@@ -5,13 +5,15 @@
 
 
 ### Deixe-me contar um pouco sobre mim =)
-* Idade: 25 anos
-* Formação: 
+* **Idade**: 25 anos
+* **Formação**: 
     1. Graduação em Sistemas de informação - USP (cursando)
     2. Bootcamp Desenvolvedor Java Fullstack - Generation Brasil
-* Experiência: 
+* **Experiência**: 
     1. Analista de engenharia de TI - Itaú Unibanco
     2. Professor voluntário de Programaçao Procedural e Programação Orientada a Objetos - IFSP e Associação Vestibulandos da Cidadania
+<br>
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDebut&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDebut&layout=pie&hide=Makefile,css,CMake,Python,Javascript,html&size_weight=1&count_weight=0&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![](https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+
 
